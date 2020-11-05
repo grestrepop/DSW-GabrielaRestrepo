@@ -1,0 +1,68 @@
+body{
+    background-color: rgb(0, 88, 131);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    text-align: center;
+    color:  honeydew;
+}
+    
+h2{
+    color: rgb(244,121,32);
+}
+
+h3{
+    color: rgb(240,180,41);  
+}
+p{
+    color: honeydew;
+       
+}
+ol{
+    color:honeydew;    
+}
+ul{
+    color: honeydew;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+button{
+    background-color:rgb(240,180,41);
+   display: inline-block; 
+   font-size: x-large;
+   margin : 10px;
+   padding: 10px 0px;
+   text-align: center;
+   width: 200px;
+   text-decoration: none;
+   box-shadow: 0px 3px 0px #373c3c;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   border-radius: 50px;
+}
+
+.boton{
+    background-color:honeydew;
+    font-size: x-large;
+    margin : 10px;
+    padding: 5px 0px;
+    text-align: center;
+    width: 200px;
+    box-shadow: 0px 3px 0px #373c3c;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 50px;
+}
+button:hover{
+    box-shadow: 0px 0px 0px;
+    padding-top: 7px;
+}
+
+.Tabla{
+    width: 80%;
+    margin: 40px;
+}
+img{
+    border: honeydew;
+    background-color: honeydew;
+
+}
