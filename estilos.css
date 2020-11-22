@@ -6,25 +6,30 @@ body{
 h1{
     text-align: center;
     color:  honeydew;
+    margin: 20px 20px 20px 20px;
 }
     
 h2{
     color: rgb(244,121,32);
+    margin: 20px 20px 20px 20px;
 }
 
 h3{
     color: rgb(240,180,41);  
+    margin: 20px 20px 20px 20px;
 }
 p{
     color: honeydew;
-       
+    margin: 20px 20px 20px 20px;
 }
 ol{
-    color:honeydew;    
+    color:honeydew; 
+    margin: 20px 20px 20px 20px;   
 }
 ul{
     color: honeydew;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 20px 20px 20px 20px;
 }
 
 button{
