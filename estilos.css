@@ -84,7 +84,7 @@ input.src{
     border-radius: 15px;
     color: #444;
     border: 3px solid rgb(240,180,41);
-    background: #fff 
+    background: #fff; 
     width: 60px;
     transition: all.5s;
 }
