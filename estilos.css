@@ -76,8 +76,6 @@ img{
     top: 40%;
     left: 80%;
     transform: translate(-50%, -50%);
-}
-input.src{
     padding: 6px 10px 9px 32px;
     outline:none;
     font-size: 18px;
@@ -88,10 +86,6 @@ input.src{
     width: 60px;
     transition: all.5s;
 }
-input.src:hover{
-    width: 180px;
-    background-color: #fff;
-    border-color:rgb(240,180,41);
-    box-shadow: 0 0 5px rgb(0, 88, 131);
-}
+
+
 
