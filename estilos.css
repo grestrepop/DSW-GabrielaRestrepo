@@ -71,3 +71,45 @@ img{
     background-color: honeydew;
 
 }
+.box{
+    position: absolute;
+    top: 40%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+}
+input.src{
+    padding: 6px 10px 9px 32px;
+    outline:none;
+    font-size: 18px;
+    border-radius: 15px;
+    color: #444;
+    border: 3px solid rgb(240,180,41);
+    background: #fff no-repeat 9px right;
+    width: 60px;
+    transition: all.5s;
+}
+input.src:hover{
+    width: 180px;
+    background-color: #fff;
+    border-color:rgb(240,180,41);
+    box-shadow: 0 0 5px rgb(0, 88, 131);
+}
+.table{
+    width: 80%;
+    max-height: 20px;
+    height: auto;
+    background:white;
+    margin-left: 10px;
+    overflow-y: visible;
+    overflow-x: hidden;
+    display: none;
+}
+tbody tr td a {
+    display: block;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+}
+tbody tr td a:hover{
+    background: rgb(240,180,41);
+} 
